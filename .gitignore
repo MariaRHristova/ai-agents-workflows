@@ -7,3 +7,6 @@ openai-secret-key-ai-integrations-developers.txt
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# Local vector databases
+chroma_db*/
