@@ -1,5 +1,6 @@
 # Local credentials
 openai-secret-key-ai-integrations-developers.txt
+langsmith-travel-agent-secret-key.txt
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
